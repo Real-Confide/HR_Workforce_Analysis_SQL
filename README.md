@@ -6,15 +6,15 @@ The objective was to take a set of raw, intentionally messy HR datasets, investi
 Rather than starting with predefined answers, I first examined the structure and quality of the data, identified the issues present, and applied appropriate business rules before using the cleaned data for analysis.
 
 ## The project covers:
-•	Workforce composition
-•	Compensation
-•	Attendance and working hours
-•	Overtime
-•	Employee performance
-•	Training
-•	Employee tenure
-•	Employee exits and turnover
-•	Workforce reporting
+- Workforce composition
+- Compensation
+- Attendance and working hours
+- Overtime
+- Employee performance
+- Training
+- Employee tenure
+- Employee exits and turnover
+- Workforce reporting
 
 ---
 
