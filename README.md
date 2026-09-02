@@ -19,9 +19,9 @@ Rather than starting with predefined answers, I first examined the structure and
 ---
 
 ## Project Workflow
-Raw CSV Files
+| Raw CSV Files |
       ↓
-SQL Server
+| SQL Server |
       ↓
 Raw Schema
       ↓
