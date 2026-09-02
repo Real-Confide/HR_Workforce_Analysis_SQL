@@ -32,6 +32,8 @@ Raw CSV Files → SQL Server → Raw Schema → Data Investigation → Data Clea
 
 - Microsoft SQL Server (SSMS)
 
+---
+
 # 1. Dataset & Database Structure
 
 The project contains four related tables:
@@ -89,7 +91,7 @@ The dataset was initially loaded into the raw schema, while the cleaned versions
 - Employees.csv
 - Attendance.csv
 - PerformanceReviews.csv
-- 
+
 ### SQL Setup
 
 ```sql
