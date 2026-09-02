@@ -147,7 +147,7 @@ Other cleaning steps included:
 - Standardising employment status
 - Ensuring active employees did not retain an exit date
   
-**View Employees Cleaning Query**
+**[View Employees Cleaning Query](https://github.com/Real-Confide/HR_Workforce_Analysis_SQL/blob/main/1_Data_Cleaning_Employees_Table.sql)**
 
 --- 
 
@@ -157,7 +157,7 @@ The Departments table was used primarily as a reference table.
 
 Cleaning focused on ensuring that department identifiers and descriptive fields were consistently represented and could be reliably used when joining to employee data.
 
-**View Departments Cleaning Query**
+**[View Departments Cleaning Query](https://github.com/Real-Confide/HR_Workforce_Analysis_SQL/blob/main/3_Data_Cleaning_Departments_Table.sql)**
 
 ---
 
@@ -179,7 +179,7 @@ The cleaning included:
   
 For example, an employee recorded as absent or on leave should not have meaningful working hours recorded for that day, so those values were handled differently from missing values for employees who were present.
 
-**View Attendance Cleaning Query**
+**[View Attendance Cleaning Query](https://github.com/Real-Confide/HR_Workforce_Analysis_SQL/blob/main/2_Data_Cleaning_Attendance_Table.sql)**
 
 ---
 
@@ -198,7 +198,7 @@ Cleaning included:
   
 The table was retained at the review level because an employee can have multiple performance reviews over time.
 
-**View Performance Reviews Cleaning Query**
+**[View Performance Reviews Cleaning Query](https://github.com/Real-Confide/HR_Workforce_Analysis_SQL/blob/main/4_Data_Cleaning_PerformanceReview_Table.sql)**
 
 ---
 
@@ -225,7 +225,7 @@ Questions explored included:
   
 This stage helped establish what was actually present in the database before moving into deeper analysis.
 
-**View EDA Queries**
+**[View EDA Queries](https://github.com/Real-Confide/HR_Workforce_Analysis_SQL/blob/main/5_Exploratory_Data_Analysis.sql)**
 
 ---
 
@@ -315,7 +315,7 @@ The analysis examined:
   
 The final disengagement analysis combined information from attendance, performance, training, overtime and employee tenure to provide a broader view of employees who eventually exited the organisation.
 
-**View Advanced Data Analysis Queries**
+**[View Advanced Data Analysis Queries](https://github.com/Real-Confide/HR_Workforce_Analysis_SQL/blob/main/6_Advanced_Data_Analysis.sql)**
 
 ---
 
@@ -350,7 +350,7 @@ The report includes:
   
 The purpose of the report is to provide HR with a consolidated view of the current workforce without requiring the underlying tables to be queried separately.
 
-**View Active Employee Report**
+**[View Active Employee Report](https://github.com/Real-Confide/HR_Workforce_Analysis_SQL/blob/main/7_Active_Employee_Workforce_Report.sql)**
 
 ---
 
@@ -375,7 +375,7 @@ It includes:
   
 This provides a consolidated view that can be used to examine employee exits alongside their employment history, performance and workforce activity.
 
-**View Exited Employee Report**
+**[View Exited Employee Report](https://github.com/Real-Confide/HR_Workforce_Analysis_SQL/blob/main/8_Exited_Employee_Workforce_Report.sql)**
 
 ---
 
