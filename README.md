@@ -352,7 +352,7 @@ The purpose of the report is to provide HR with a consolidated view of the curre
 
 **View Active Employee Report**
 
---
+---
 
 ## 6.2 Exited Employee Workforce Report
 
@@ -440,6 +440,7 @@ The final result is a cleaned and analysis-ready HR dataset together with SQL an
 
 ## Repository Structure
 
+```text
 HR-Workforce-Analytics/
 │
 ├── README.md
@@ -459,3 +460,4 @@ HR-Workforce-Analytics/
     ├── Advanced_Data_Analysis.sql
     ├── Active_Employee_Workforce_Report.sql
     └── Exited_Employee_Workforce_Report.sql
+```
